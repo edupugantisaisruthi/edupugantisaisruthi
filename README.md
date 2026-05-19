@@ -75,7 +75,4 @@
 
 ---
 
-
----
-
 <p align="center">⭐ From <strong>Sai Sruthi Edupuganti</strong> · Made with ❤ and data</p>
